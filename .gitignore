@@ -1,3 +1,3 @@
-.exercism
-.vscode
-__pycache__
+.exercism/
+.vscode/
+__pycache__/
